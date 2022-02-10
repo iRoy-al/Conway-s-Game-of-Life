@@ -1,3 +1,4 @@
+# Conway's Game of Life
 ## Build Instructions
 1. Open the 'Life' folder
 2. Open the 'Life.sln' file with Microsoft Visual Studio
