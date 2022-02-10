@@ -9,7 +9,8 @@
 ...
 
 ## Usage 
-1. Navigate to the 'life.dll' file in the cmd
+1. Navigate to the 'life.dll' file in the cmd.
+	
 	1-1. To make things easier: path/to/folder/Life/Life/bin/Debug/netcoreapp3.1
 2. Type 'dotnet life.dll' on the cmd once you are in the correct location.
 3. Press Spacebar to start the simulation.
